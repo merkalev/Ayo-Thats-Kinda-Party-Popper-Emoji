@@ -1,3 +1,4 @@
+||portableapps.com^
 ||api.stardesk.net.cdn.cloudflare.net^
 ||proxima.stardesk.net.cdn.cloudflare.net^
 ||stardesk.net^
