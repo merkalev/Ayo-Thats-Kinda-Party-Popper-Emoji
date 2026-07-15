@@ -1,3 +1,5 @@
+||hyperbeam.com^
+||vrcdn.live^
 ||deskin.sg^
 ||authds.deskin.sg^
 ||rscreen.me^
