@@ -1,3 +1,15 @@
+||v2rayn.org^
+||v2ray.com^
+||v2raya.org^
+||v2rayclient.com^
+||v2rayng.org^
+||v2rayng.cyou^
+||2dust.link^
+||v2fly.org^
+||v2fly.com^
+||xtls.org^
+||sing-box.org^
+||sagernet.org^
 ||gosh.sh^
 ||ackinacki.com^
 ||tvmlabs.io^
