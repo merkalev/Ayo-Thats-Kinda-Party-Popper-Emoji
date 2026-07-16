@@ -1,3 +1,9 @@
+||gosh.sh^
+||ackinacki.com^
+||tvmlabs.io^
+||dielast.io^
+||ackinacki-app.pages.dev^
+||livepush.io^
 ||jagoanssh.com^
 ||jagoanssh.xyz^
 ||panel.jagoanssh.com^
