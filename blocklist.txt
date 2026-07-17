@@ -1,3 +1,9 @@
+/streamed/
+/piracy/
+/vpn/
+/iptv/
+/4chan/
+/soyjak/
 ||v2rayn.org^
 ||v2ray.com^
 ||v2raya.org^
