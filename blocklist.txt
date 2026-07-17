@@ -1,3 +1,5 @@
+/sshx/
+/ssh/
 /streamed/
 /piracy/
 /vpn/
