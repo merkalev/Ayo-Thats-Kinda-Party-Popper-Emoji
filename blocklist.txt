@@ -1,3 +1,5 @@
+/booru/
+/archive/
 ||tvee.app^
 ||screenmirroring.app^
 ||mirroring.tv^
