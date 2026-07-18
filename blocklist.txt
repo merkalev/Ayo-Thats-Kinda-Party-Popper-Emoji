@@ -1,3 +1,11 @@
+||tvee.app^
+||screenmirroring.app^
+||mirroring.tv^
+||qr.cool^
+||qr-scanner.app^
+||video-tv-cast.com^
+||2kit.de^
+||tv-remote.app^
 /sshx/
 /ssh/
 /streamed/
