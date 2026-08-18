@@ -100,9 +100,9 @@
 @@||help.multilogin.com^
 @@||learn.microsoft.com^
 @@||localxpose.instatus.com^
-@@||media.githubusercontent.com^
-@@||objects.githubusercontent.com^
-@@||raw.githubusercontent.com^
+# @@||media.githubusercontent.com^
+# @@||objects.githubusercontent.com^
+# @@||raw.githubusercontent.com^
 @@||status.browserless.io^
 @@||status.catbox.moe^
 @@||status.multilogin.com^
