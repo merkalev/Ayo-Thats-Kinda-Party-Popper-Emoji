@@ -499047,8 +499047,7 @@
 ||media.discordapp.net^
 ||*.io^
 ||*.tv^
-# fuck
-#||*.gg^
+||*.gg^
 ||*.me^
 ||*.se^
 ||*.st^
