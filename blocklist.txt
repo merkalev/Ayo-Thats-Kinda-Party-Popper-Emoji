@@ -499056,7 +499056,6 @@
 ||*.cc^
 ||limewire.com^
 /limewire/
-/python/
 /russia/
 /telegram/
 /goodbyedpi/
@@ -499066,7 +499065,6 @@
 /proxy/
 /proxies/
 /zapret/
-||python.org^
 /soy/
 /lomando/
 /psiphon/
