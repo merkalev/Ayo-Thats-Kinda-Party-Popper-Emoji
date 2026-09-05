@@ -499675,3 +499675,8 @@
 ||zohoassist.org^
 ||zoholens.com^
 ||zohomeeting.com^
+||discord.media^
+||discordsays.com^
+||discordactivities.com^
+||discord-activities.com^
+||discordpartygames.com^
