@@ -1,8 +1,7 @@
-@@||account.live.com^
-@@||accounts.google.com^
 @@||activation-v2.sls.microsoft.com^
 @@||addons.mozilla.org^
 @@||aus5.mozilla.org^
+# @@||billing.multilogin.com^
 @@||captive.apple.com^
 @@||challenges.cloudflare.com^
 @@||checkappexec.microsoft.com^
@@ -23,8 +22,19 @@
 @@||definitionupdates.microsoft.com^
 @@||delivery.mp.microsoft.com^
 @@||detectportal.firefox.com^
+@@||discord.com^$important
+@@||discord.gg^
+@@||discordapp.com^
 @@||dl.google.com^
 @@||dns.msftncsi.com^
+@@||docs.aws.amazon.com^
+# @@||docs.browserless.io^
+@@||docs.cloud.google.com^
+@@||docs.github.com^
+# @@||docs.inlets.dev^
+# @@||docs.octobrowser.net^
+@@||docs.replit.com^
+@@||docs.smspva.com^
 @@||download-installer.cdn.mozilla.net^
 @@||e1.o.lencr.org^
 @@||e2.o.lencr.org^
@@ -36,11 +46,12 @@
 @@||geometrydash.com^
 @@||ggpht.com^
 @@||googlevideo.com^
-@@||i.ytimg.com^
 @@||hcaptcha.com^
+# @@||help.multilogin.com^
+@@||i.ytimg.com^
 @@||ipv6.msftconnecttest.com^
-@@||login.live.com^
-@@||login.microsoftonline.com^
+@@||learn.microsoft.com^
+# @@||localxpose.instatus.com^
 @@||login.windows.net^
 @@||mesu.apple.com^
 @@||mscrl.microsoft.com^
@@ -53,19 +64,23 @@
 @@||ocsp.pki.goog^
 @@||ocsp.sectigo.com^
 @@||ocsp2.globalsign.com^
-@@||officecdn.microsoft.com^
-@@||officeclient.microsoft.com^
 @@||oneocsp.microsoft.com^
 @@||pool.ntp.org^
 @@||push.services.mozilla.com^
 @@||r3.o.lencr.org^
 @@||recaptcha.net^
 @@||redirector.gvt1.com^
+@@||roblox.com^$important
 @@||safebrowsing.googleapis.com^
 @@||sb-ssl.google.com^
 @@||shavar.services.mozilla.com^
 @@||smartscreen.microsoft.com^
 @@||softgaypaws.com^
+# @@||status.browserless.io^
+@@||status.catbox.moe^
+# @@||status.multilogin.com^
+# @@||status.ngrok.com^
+@@||support.microsoft.com^
 @@||swcdn.apple.com^
 @@||swscan.apple.com^
 @@||time.apple.com^
@@ -75,6 +90,7 @@
 @@||time.windows.com^
 @@||tools.google.com^
 @@||triton.qzz.io^
+# @@||trust.ngrok.com^
 @@||update.googleapis.com^
 @@||update.microsoft.com^
 @@||validation.sls.microsoft.com^
@@ -88,24 +104,12 @@
 @@||x1.c.lencr.org^
 @@||x2.c.lencr.org^
 @@||ytimg.googleusercontent.com^
-@@||billing.multilogin.com^
-@@||docs.aws.amazon.com^
-@@||docs.browserless.io^
-@@||docs.cloud.google.com^
-@@||docs.github.com^
-@@||docs.inlets.dev^
-@@||docs.octobrowser.net^
-@@||docs.replit.com^
-@@||docs.smspva.com^
-@@||help.multilogin.com^
-@@||learn.microsoft.com^
-@@||localxpose.instatus.com^
+# @@||account.live.com^
+# @@||accounts.google.com^
+# @@||login.live.com^
+# @@||login.microsoftonline.com^
 # @@||media.githubusercontent.com^
 # @@||objects.githubusercontent.com^
+# @@||officecdn.microsoft.com^
+# @@||officeclient.microsoft.com^
 # @@||raw.githubusercontent.com^
-@@||status.browserless.io^
-@@||status.catbox.moe^
-@@||status.multilogin.com^
-@@||status.ngrok.com^
-@@||support.microsoft.com^
-@@||trust.ngrok.com^
