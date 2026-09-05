@@ -113,3 +113,4 @@
 # @@||officecdn.microsoft.com^
 # @@||officeclient.microsoft.com^
 # @@||raw.githubusercontent.com^
+@@||gateway.discord.gg^
