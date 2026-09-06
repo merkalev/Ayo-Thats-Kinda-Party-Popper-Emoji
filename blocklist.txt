@@ -499046,7 +499046,7 @@
 /archives/
 ||media.discordapp.net^
 ||discord.gg^
-||discordapp.com^
+||cdn.discordapp.com^
 ||*.io^
 ||*.tv^
 ||*.gg^
