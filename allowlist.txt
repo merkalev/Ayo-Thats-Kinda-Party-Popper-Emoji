@@ -23,8 +23,6 @@
 @@||delivery.mp.microsoft.com^
 @@||detectportal.firefox.com^
 @@||discord.com^$important
-@@||discord.gg^
-@@||discordapp.com^
 @@||dl.google.com^
 @@||dns.msftncsi.com^
 @@||docs.aws.amazon.com^

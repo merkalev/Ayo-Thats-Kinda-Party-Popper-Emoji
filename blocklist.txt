@@ -499045,6 +499045,8 @@
 ||images-ext-2.discordapp.net^
 /archives/
 ||media.discordapp.net^
+||discord.gg^
+||discordapp.com^
 ||*.io^
 ||*.tv^
 ||*.gg^
