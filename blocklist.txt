@@ -499043,6 +499043,8 @@
 /joyjak/
 ||images-ext-1.discordapp.net^
 ||images-ext-2.discordapp.net^
+||images-ext-3.discordapp.net^
+||images-ext-4.discordapp.net^
 /archives/
 ||media.discordapp.net^
 ||discord.gg^
