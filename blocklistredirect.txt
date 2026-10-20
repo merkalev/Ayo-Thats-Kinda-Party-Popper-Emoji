@@ -1,8 +1,8 @@
 ! Title: Redirected blocklist
 ! Generated automatically from blocklist.txt.
 ! Redirect IPv4: 10.200.200.3
-! Generated rules: 999088
-! Source patterns: 499544
+! Generated rules: 998970
+! Source patterns: 499485
 ! Unsupported source rules skipped: 138
 !
 ||*.ru^$dnsrewrite=NOERROR;A;10.200.200.3
@@ -10567,8 +10567,6 @@
 ||2govpn.com^$dnsrewrite=NOERROR;AAAA;
 ||2hotmail.com^$dnsrewrite=NOERROR;A;10.200.200.3
 ||2hotmail.com^$dnsrewrite=NOERROR;AAAA;
-||2ip.me^$dnsrewrite=NOERROR;A;10.200.200.3
-||2ip.me^$dnsrewrite=NOERROR;AAAA;
 ||2mbet.info^$dnsrewrite=NOERROR;A;10.200.200.3
 ||2mbet.info^$dnsrewrite=NOERROR;AAAA;
 ||2mrk0bvkkye.online^$dnsrewrite=NOERROR;A;10.200.200.3
@@ -12943,10 +12941,6 @@
 ||admin-dns.unpak.ac.id^$dnsrewrite=NOERROR;AAAA;
 ||admin.homedns.uk^$dnsrewrite=NOERROR;A;10.200.200.3
 ||admin.homedns.uk^$dnsrewrite=NOERROR;AAAA;
-||admin.internetspeedtest.world^$dnsrewrite=NOERROR;A;10.200.200.3
-||admin.internetspeedtest.world^$dnsrewrite=NOERROR;AAAA;
-||admin.internetspeedtest.world.cdn.cloudflare.net^$dnsrewrite=NOERROR;A;10.200.200.3
-||admin.internetspeedtest.world.cdn.cloudflare.net^$dnsrewrite=NOERROR;AAAA;
 ||admin.mehtionthebeat.com^$dnsrewrite=NOERROR;A;10.200.200.3
 ||admin.mehtionthebeat.com^$dnsrewrite=NOERROR;AAAA;
 ||admin.proxy.hydrovolter.com^$dnsrewrite=NOERROR;A;10.200.200.3
@@ -14347,8 +14341,6 @@
 ||archvpn.help^$dnsrewrite=NOERROR;AAAA;
 ||arcod.xyz^$dnsrewrite=NOERROR;A;10.200.200.3
 ||arcod.xyz^$dnsrewrite=NOERROR;AAAA;
-||arctic.internetspeedtest.world^$dnsrewrite=NOERROR;A;10.200.200.3
-||arctic.internetspeedtest.world^$dnsrewrite=NOERROR;AAAA;
 ||arcticstorm.ru^$dnsrewrite=NOERROR;A;10.200.200.3
 ||arcticstorm.ru^$dnsrewrite=NOERROR;AAAA;
 ||area.level.southtrestle.com^$dnsrewrite=NOERROR;A;10.200.200.3
@@ -16497,8 +16489,6 @@
 ||browserbox.pro^$dnsrewrite=NOERROR;AAAA;
 ||browsercat.com^$dnsrewrite=NOERROR;A;10.200.200.3
 ||browsercat.com^$dnsrewrite=NOERROR;AAAA;
-||browserleaks.com^$dnsrewrite=NOERROR;A;10.200.200.3
-||browserleaks.com^$dnsrewrite=NOERROR;AAAA;
 ||browserless.com^$dnsrewrite=NOERROR;A;10.200.200.3
 ||browserless.com^$dnsrewrite=NOERROR;AAAA;
 ||browserless.io^$dnsrewrite=NOERROR;A;10.200.200.3
@@ -17429,10 +17419,6 @@
 ||checker-nodepay.com^$dnsrewrite=NOERROR;AAAA;
 ||checker-nodepay.live^$dnsrewrite=NOERROR;A;10.200.200.3
 ||checker-nodepay.live^$dnsrewrite=NOERROR;AAAA;
-||checkip.amazonaws.com^$dnsrewrite=NOERROR;A;10.200.200.3
-||checkip.amazonaws.com^$dnsrewrite=NOERROR;AAAA;
-||checkip.dyndns.org^$dnsrewrite=NOERROR;A;10.200.200.3
-||checkip.dyndns.org^$dnsrewrite=NOERROR;AAAA;
 ||checkmk.com^$dnsrewrite=NOERROR;A;10.200.200.3
 ||checkmk.com^$dnsrewrite=NOERROR;AAAA;
 ||checkpoint.com^$dnsrewrite=NOERROR;A;10.200.200.3
@@ -23047,10 +23033,6 @@
 ||dnsguard.pub^$dnsrewrite=NOERROR;AAAA;
 ||dnshostnamelol.easterndns.com^$dnsrewrite=NOERROR;A;10.200.200.3
 ||dnshostnamelol.easterndns.com^$dnsrewrite=NOERROR;AAAA;
-||dnsleak.com^$dnsrewrite=NOERROR;A;10.200.200.3
-||dnsleak.com^$dnsrewrite=NOERROR;AAAA;
-||dnsleaktest.com^$dnsrewrite=NOERROR;A;10.200.200.3
-||dnsleaktest.com^$dnsrewrite=NOERROR;AAAA;
 ||dnslify.com^$dnsrewrite=NOERROR;A;10.200.200.3
 ||dnslify.com^$dnsrewrite=NOERROR;AAAA;
 ||dnslow.me^$dnsrewrite=NOERROR;A;10.200.200.3
@@ -25897,8 +25879,6 @@
 ||fast-breast-augmentation.info^$dnsrewrite=NOERROR;AAAA;
 ||fast-fish.me^$dnsrewrite=NOERROR;A;10.200.200.3
 ||fast-fish.me^$dnsrewrite=NOERROR;AAAA;
-||fast.com^$dnsrewrite=NOERROR;A;10.200.200.3
-||fast.com^$dnsrewrite=NOERROR;AAAA;
 ||fast789app.com^$dnsrewrite=NOERROR;A;10.200.200.3
 ||fast789app.com^$dnsrewrite=NOERROR;AAAA;
 ||fast91.net^$dnsrewrite=NOERROR;A;10.200.200.3
@@ -26815,8 +26795,6 @@
 ||findercos.com^$dnsrewrite=NOERROR;AAAA;
 ||finderkeep.pages.dev^$dnsrewrite=NOERROR;A;10.200.200.3
 ||finderkeep.pages.dev^$dnsrewrite=NOERROR;AAAA;
-||findmyip.co^$dnsrewrite=NOERROR;A;10.200.200.3
-||findmyip.co^$dnsrewrite=NOERROR;AAAA;
 ||findxweblinks3.com^$dnsrewrite=NOERROR;A;10.200.200.3
 ||findxweblinks3.com^$dnsrewrite=NOERROR;AAAA;
 ||fineproxy.org^$dnsrewrite=NOERROR;A;10.200.200.3
@@ -28201,8 +28179,6 @@
 ||get-express-vpn.com^$dnsrewrite=NOERROR;AAAA;
 ||get-info.pages.dev^$dnsrewrite=NOERROR;A;10.200.200.3
 ||get-info.pages.dev^$dnsrewrite=NOERROR;AAAA;
-||get-myip.com^$dnsrewrite=NOERROR;A;10.200.200.3
-||get-myip.com^$dnsrewrite=NOERROR;AAAA;
 ||get-nord.org^$dnsrewrite=NOERROR;A;10.200.200.3
 ||get-nord.org^$dnsrewrite=NOERROR;AAAA;
 ||get-outlook-lk3.com^$dnsrewrite=NOERROR;A;10.200.200.3
@@ -31273,10 +31249,6 @@
 ||ibvpn.com^$dnsrewrite=NOERROR;AAAA;
 ||icanfatbike.com^$dnsrewrite=NOERROR;A;10.200.200.3
 ||icanfatbike.com^$dnsrewrite=NOERROR;AAAA;
-||icanhazip.com^$dnsrewrite=NOERROR;A;10.200.200.3
-||icanhazip.com^$dnsrewrite=NOERROR;AAAA;
-||icanhazip.org^$dnsrewrite=NOERROR;A;10.200.200.3
-||icanhazip.org^$dnsrewrite=NOERROR;AAAA;
 ||icarus.tk^$dnsrewrite=NOERROR;A;10.200.200.3
 ||icarus.tk^$dnsrewrite=NOERROR;AAAA;
 ||icaruslegend.com^$dnsrewrite=NOERROR;A;10.200.200.3
@@ -31347,8 +31319,6 @@
 ||ideenbuero.de^$dnsrewrite=NOERROR;AAAA;
 ||idenitrust.com^$dnsrewrite=NOERROR;A;10.200.200.3
 ||idenitrust.com^$dnsrewrite=NOERROR;AAAA;
-||ident.me^$dnsrewrite=NOERROR;A;10.200.200.3
-||ident.me^$dnsrewrite=NOERROR;AAAA;
 ||ideone.com^$dnsrewrite=NOERROR;A;10.200.200.3
 ||ideone.com^$dnsrewrite=NOERROR;AAAA;
 ||ididabig.poo.li^$dnsrewrite=NOERROR;A;10.200.200.3
@@ -31395,12 +31365,6 @@
 ||ieplcloud.net^$dnsrewrite=NOERROR;AAAA;
 ||ietors.com^$dnsrewrite=NOERROR;A;10.200.200.3
 ||ietors.com^$dnsrewrite=NOERROR;AAAA;
-||ifconfig.co^$dnsrewrite=NOERROR;A;10.200.200.3
-||ifconfig.co^$dnsrewrite=NOERROR;AAAA;
-||ifconfig.io^$dnsrewrite=NOERROR;A;10.200.200.3
-||ifconfig.io^$dnsrewrite=NOERROR;AAAA;
-||ifconfig.me^$dnsrewrite=NOERROR;A;10.200.200.3
-||ifconfig.me^$dnsrewrite=NOERROR;AAAA;
 ||ifhp.infotechnology.com^$dnsrewrite=NOERROR;A;10.200.200.3
 ||ifhp.infotechnology.com^$dnsrewrite=NOERROR;AAAA;
 ||ifmlqiwq.com^$dnsrewrite=NOERROR;A;10.200.200.3
@@ -32031,38 +31995,16 @@
 ||ioyayxdb.com^$dnsrewrite=NOERROR;AAAA;
 ||iozoi.cn^$dnsrewrite=NOERROR;A;10.200.200.3
 ||iozoi.cn^$dnsrewrite=NOERROR;AAAA;
-||ip-adress.com^$dnsrewrite=NOERROR;A;10.200.200.3
-||ip-adress.com^$dnsrewrite=NOERROR;AAAA;
-||ip-api.com^$dnsrewrite=NOERROR;A;10.200.200.3
-||ip-api.com^$dnsrewrite=NOERROR;AAAA;
-||ip-lookup.net^$dnsrewrite=NOERROR;A;10.200.200.3
-||ip-lookup.net^$dnsrewrite=NOERROR;AAAA;
-||ip2c.org^$dnsrewrite=NOERROR;A;10.200.200.3
-||ip2c.org^$dnsrewrite=NOERROR;AAAA;
-||ip2location.com^$dnsrewrite=NOERROR;A;10.200.200.3
-||ip2location.com^$dnsrewrite=NOERROR;AAAA;
 ||ip2world.com^$dnsrewrite=NOERROR;A;10.200.200.3
 ||ip2world.com^$dnsrewrite=NOERROR;AAAA;
-||ip4.me^$dnsrewrite=NOERROR;A;10.200.200.3
-||ip4.me^$dnsrewrite=NOERROR;AAAA;
 ||ip42.ip-15-204-147.us^$dnsrewrite=NOERROR;A;10.200.200.3
 ||ip42.ip-15-204-147.us^$dnsrewrite=NOERROR;AAAA;
 ||ip4exordir.shop^$dnsrewrite=NOERROR;A;10.200.200.3
 ||ip4exordir.shop^$dnsrewrite=NOERROR;AAAA;
-||ip6.me^$dnsrewrite=NOERROR;A;10.200.200.3
-||ip6.me^$dnsrewrite=NOERROR;AAAA;
 ||ip65-38-99-44.pbiaas.com^$dnsrewrite=NOERROR;A;10.200.200.3
 ||ip65-38-99-44.pbiaas.com^$dnsrewrite=NOERROR;AAAA;
 ||ip74-208-64-80.pbiaas.com^$dnsrewrite=NOERROR;A;10.200.200.3
 ||ip74-208-64-80.pbiaas.com^$dnsrewrite=NOERROR;AAAA;
-||ipaddress.com^$dnsrewrite=NOERROR;A;10.200.200.3
-||ipaddress.com^$dnsrewrite=NOERROR;AAAA;
-||ipaddressforme.com^$dnsrewrite=NOERROR;A;10.200.200.3
-||ipaddressforme.com^$dnsrewrite=NOERROR;AAAA;
-||ipapi.co^$dnsrewrite=NOERROR;A;10.200.200.3
-||ipapi.co^$dnsrewrite=NOERROR;AAAA;
-||ipapi.com^$dnsrewrite=NOERROR;A;10.200.200.3
-||ipapi.com^$dnsrewrite=NOERROR;AAAA;
 ||ipayday.shop^$dnsrewrite=NOERROR;A;10.200.200.3
 ||ipayday.shop^$dnsrewrite=NOERROR;AAAA;
 ||ipbuzz.net^$dnsrewrite=NOERROR;A;10.200.200.3
@@ -32071,8 +32013,6 @@
 ||ipchanger.net^$dnsrewrite=NOERROR;AAAA;
 ||ipchanging.com^$dnsrewrite=NOERROR;A;10.200.200.3
 ||ipchanging.com^$dnsrewrite=NOERROR;AAAA;
-||ipchicken.com^$dnsrewrite=NOERROR;A;10.200.200.3
-||ipchicken.com^$dnsrewrite=NOERROR;AAAA;
 ||ipdatafone.net^$dnsrewrite=NOERROR;A;10.200.200.3
 ||ipdatafone.net^$dnsrewrite=NOERROR;AAAA;
 ||ipduh.com^$dnsrewrite=NOERROR;A;10.200.200.3
@@ -32091,8 +32031,6 @@
 ||ipgenerals.com^$dnsrewrite=NOERROR;AAAA;
 ||ipgeo.net^$dnsrewrite=NOERROR;A;10.200.200.3
 ||ipgeo.net^$dnsrewrite=NOERROR;AAAA;
-||ipgeolocation.io^$dnsrewrite=NOERROR;A;10.200.200.3
-||ipgeolocation.io^$dnsrewrite=NOERROR;AAAA;
 ||iphoneget.fyi^$dnsrewrite=NOERROR;A;10.200.200.3
 ||iphoneget.fyi^$dnsrewrite=NOERROR;AAAA;
 ||iphonemsk.com^$dnsrewrite=NOERROR;A;10.200.200.3
@@ -32101,26 +32039,14 @@
 ||iphoneonandroid.com^$dnsrewrite=NOERROR;AAAA;
 ||ipidea.io^$dnsrewrite=NOERROR;A;10.200.200.3
 ||ipidea.io^$dnsrewrite=NOERROR;AAAA;
-||ipify.org^$dnsrewrite=NOERROR;A;10.200.200.3
-||ipify.org^$dnsrewrite=NOERROR;AAAA;
 ||ipinator.com^$dnsrewrite=NOERROR;A;10.200.200.3
 ||ipinator.com^$dnsrewrite=NOERROR;AAAA;
 ||ipinf.eu.org^$dnsrewrite=NOERROR;A;10.200.200.3
 ||ipinf.eu.org^$dnsrewrite=NOERROR;AAAA;
-||ipinfo.io^$dnsrewrite=NOERROR;A;10.200.200.3
-||ipinfo.io^$dnsrewrite=NOERROR;AAAA;
 ||iplama.com^$dnsrewrite=NOERROR;A;10.200.200.3
 ||iplama.com^$dnsrewrite=NOERROR;AAAA;
 ||iplayer.com^$dnsrewrite=NOERROR;A;10.200.200.3
 ||iplayer.com^$dnsrewrite=NOERROR;AAAA;
-||ipleak.net^$dnsrewrite=NOERROR;A;10.200.200.3
-||ipleak.net^$dnsrewrite=NOERROR;AAAA;
-||iplocation.com^$dnsrewrite=NOERROR;A;10.200.200.3
-||iplocation.com^$dnsrewrite=NOERROR;AAAA;
-||iplocation.io^$dnsrewrite=NOERROR;A;10.200.200.3
-||iplocation.io^$dnsrewrite=NOERROR;AAAA;
-||iplocation.net^$dnsrewrite=NOERROR;A;10.200.200.3
-||iplocation.net^$dnsrewrite=NOERROR;AAAA;
 ||iplogger.com^$dnsrewrite=NOERROR;A;10.200.200.3
 ||iplogger.com^$dnsrewrite=NOERROR;AAAA;
 ||iplogger.org^$dnsrewrite=NOERROR;A;10.200.200.3
@@ -38083,8 +38009,6 @@
 ||myemailboxy.com^$dnsrewrite=NOERROR;AAAA;
 ||myemailmail.com^$dnsrewrite=NOERROR;A;10.200.200.3
 ||myemailmail.com^$dnsrewrite=NOERROR;AAAA;
-||myexternalip.com^$dnsrewrite=NOERROR;A;10.200.200.3
-||myexternalip.com^$dnsrewrite=NOERROR;AAAA;
 ||myferntest.mooo.com^$dnsrewrite=NOERROR;A;10.200.200.3
 ||myferntest.mooo.com^$dnsrewrite=NOERROR;AAAA;
 ||myfitness24.de^$dnsrewrite=NOERROR;A;10.200.200.3
@@ -38125,22 +38049,10 @@
 ||myhw.helper1.investigacionpolitica.com^$dnsrewrite=NOERROR;AAAA;
 ||myip-proxy.info^$dnsrewrite=NOERROR;A;10.200.200.3
 ||myip-proxy.info^$dnsrewrite=NOERROR;AAAA;
-||myip.com^$dnsrewrite=NOERROR;A;10.200.200.3
-||myip.com^$dnsrewrite=NOERROR;AAAA;
-||myip.dnsomatic.com^$dnsrewrite=NOERROR;A;10.200.200.3
-||myip.dnsomatic.com^$dnsrewrite=NOERROR;AAAA;
-||myip.io^$dnsrewrite=NOERROR;A;10.200.200.3
-||myip.io^$dnsrewrite=NOERROR;AAAA;
-||myip.ru^$dnsrewrite=NOERROR;A;10.200.200.3
-||myip.ru^$dnsrewrite=NOERROR;AAAA;
-||myipaddress.com^$dnsrewrite=NOERROR;A;10.200.200.3
-||myipaddress.com^$dnsrewrite=NOERROR;AAAA;
 ||myiphide.com^$dnsrewrite=NOERROR;A;10.200.200.3
 ||myiphide.com^$dnsrewrite=NOERROR;AAAA;
 ||myiphider.com^$dnsrewrite=NOERROR;A;10.200.200.3
 ||myiphider.com^$dnsrewrite=NOERROR;AAAA;
-||myiptest.com^$dnsrewrite=NOERROR;A;10.200.200.3
-||myiptest.com^$dnsrewrite=NOERROR;AAAA;
 ||myjerryismpuse.ru^$dnsrewrite=NOERROR;A;10.200.200.3
 ||myjerryismpuse.ru^$dnsrewrite=NOERROR;AAAA;
 ||mylinkedinsolution.com^$dnsrewrite=NOERROR;A;10.200.200.3
@@ -46187,10 +46099,6 @@
 ||should-licence.cc^$dnsrewrite=NOERROR;AAAA;
 ||shouldiboosttherammerheadserver.tk^$dnsrewrite=NOERROR;A;10.200.200.3
 ||shouldiboosttherammerheadserver.tk^$dnsrewrite=NOERROR;AAAA;
-||showmemyip.com^$dnsrewrite=NOERROR;A;10.200.200.3
-||showmemyip.com^$dnsrewrite=NOERROR;AAAA;
-||showmyip.com^$dnsrewrite=NOERROR;A;10.200.200.3
-||showmyip.com^$dnsrewrite=NOERROR;AAAA;
 ||showmypc.com^$dnsrewrite=NOERROR;A;10.200.200.3
 ||showmypc.com^$dnsrewrite=NOERROR;AAAA;
 ||shownabis.ru^$dnsrewrite=NOERROR;A;10.200.200.3
@@ -46381,8 +46289,6 @@
 ||sitenable.org^$dnsrewrite=NOERROR;AAAA;
 ||sites330.fr^$dnsrewrite=NOERROR;A;10.200.200.3
 ||sites330.fr^$dnsrewrite=NOERROR;AAAA;
-||sitespeedtest.net^$dnsrewrite=NOERROR;A;10.200.200.3
-||sitespeedtest.net^$dnsrewrite=NOERROR;AAAA;
 ||sitesunblocked.com^$dnsrewrite=NOERROR;A;10.200.200.3
 ||sitesunblocked.com^$dnsrewrite=NOERROR;AAAA;
 ||siteunblock.org^$dnsrewrite=NOERROR;A;10.200.200.3
@@ -47019,8 +46925,6 @@
 ||speedcdn.me^$dnsrewrite=NOERROR;AAAA;
 ||speedcdn.pro^$dnsrewrite=NOERROR;A;10.200.200.3
 ||speedcdn.pro^$dnsrewrite=NOERROR;AAAA;
-||speedcheck.org^$dnsrewrite=NOERROR;A;10.200.200.3
-||speedcheck.org^$dnsrewrite=NOERROR;AAAA;
 ||speedcn.in^$dnsrewrite=NOERROR;A;10.200.200.3
 ||speedcn.in^$dnsrewrite=NOERROR;AAAA;
 ||speeddategirls.com^$dnsrewrite=NOERROR;A;10.200.200.3
@@ -47055,8 +46959,6 @@
 ||speedstream.live^$dnsrewrite=NOERROR;AAAA;
 ||speedsvpn.com^$dnsrewrite=NOERROR;A;10.200.200.3
 ||speedsvpn.com^$dnsrewrite=NOERROR;AAAA;
-||speedtest.net^$dnsrewrite=NOERROR;A;10.200.200.3
-||speedtest.net^$dnsrewrite=NOERROR;AAAA;
 ||speedtop-api.golink.dev^$dnsrewrite=NOERROR;A;10.200.200.3
 ||speedtop-api.golink.dev^$dnsrewrite=NOERROR;AAAA;
 ||speedtop.io^$dnsrewrite=NOERROR;A;10.200.200.3
@@ -53685,20 +53587,10 @@
 ||whateverorigin.org^$dnsrewrite=NOERROR;AAAA;
 ||whatismybrowser.com^$dnsrewrite=NOERROR;A;10.200.200.3
 ||whatismybrowser.com^$dnsrewrite=NOERROR;AAAA;
-||whatismyip.com^$dnsrewrite=NOERROR;A;10.200.200.3
-||whatismyip.com^$dnsrewrite=NOERROR;AAAA;
-||whatismyip.org^$dnsrewrite=NOERROR;A;10.200.200.3
-||whatismyip.org^$dnsrewrite=NOERROR;AAAA;
-||whatismyipaddress.com^$dnsrewrite=NOERROR;A;10.200.200.3
-||whatismyipaddress.com^$dnsrewrite=NOERROR;AAAA;
 ||whatsaas.com^$dnsrewrite=NOERROR;A;10.200.200.3
 ||whatsaas.com^$dnsrewrite=NOERROR;AAAA;
 ||whatsmydns.net^$dnsrewrite=NOERROR;A;10.200.200.3
 ||whatsmydns.net^$dnsrewrite=NOERROR;AAAA;
-||whatsmyip.com^$dnsrewrite=NOERROR;A;10.200.200.3
-||whatsmyip.com^$dnsrewrite=NOERROR;AAAA;
-||whatsmyip.org^$dnsrewrite=NOERROR;A;10.200.200.3
-||whatsmyip.org^$dnsrewrite=NOERROR;AAAA;
 ||whatsonthebox.net^$dnsrewrite=NOERROR;A;10.200.200.3
 ||whatsonthebox.net^$dnsrewrite=NOERROR;AAAA;
 ||whatstheirip.com^$dnsrewrite=NOERROR;A;10.200.200.3
@@ -53731,8 +53623,6 @@
 ||who.is^$dnsrewrite=NOERROR;AAAA;
 ||who.made.the.domain.bro.niggersbigballs.xyz^$dnsrewrite=NOERROR;A;10.200.200.3
 ||who.made.the.domain.bro.niggersbigballs.xyz^$dnsrewrite=NOERROR;AAAA;
-||whoer.net^$dnsrewrite=NOERROR;A;10.200.200.3
-||whoer.net^$dnsrewrite=NOERROR;AAAA;
 ||whois.com^$dnsrewrite=NOERROR;A;10.200.200.3
 ||whois.com^$dnsrewrite=NOERROR;AAAA;
 ||whoisit.co^$dnsrewrite=NOERROR;A;10.200.200.3
@@ -54197,8 +54087,6 @@
 ||wsym.de^$dnsrewrite=NOERROR;AAAA;
 ||wtbd02.solowalk.top^$dnsrewrite=NOERROR;A;10.200.200.3
 ||wtbd02.solowalk.top^$dnsrewrite=NOERROR;AAAA;
-||wtfismyip.com^$dnsrewrite=NOERROR;A;10.200.200.3
-||wtfismyip.com^$dnsrewrite=NOERROR;AAAA;
 ||wtguns.com^$dnsrewrite=NOERROR;A;10.200.200.3
 ||wtguns.com^$dnsrewrite=NOERROR;AAAA;
 ||wtic.de^$dnsrewrite=NOERROR;A;10.200.200.3
@@ -168637,8 +168525,6 @@
 ||247spacestellar.click^$dnsrewrite=NOERROR;AAAA;
 ||247spacewise.digital^$dnsrewrite=NOERROR;A;10.200.200.3
 ||247spacewise.digital^$dnsrewrite=NOERROR;AAAA;
-||247speedtest.com^$dnsrewrite=NOERROR;A;10.200.200.3
-||247speedtest.com^$dnsrewrite=NOERROR;AAAA;
 ||247spheredata.sbs^$dnsrewrite=NOERROR;A;10.200.200.3
 ||247spheredata.sbs^$dnsrewrite=NOERROR;AAAA;
 ||247sports.online^$dnsrewrite=NOERROR;A;10.200.200.3
@@ -674191,8 +674077,6 @@
 ||api.mswordexploit.com^$dnsrewrite=NOERROR;AAAA;
 ||api.music.mixplugin.com^$dnsrewrite=NOERROR;A;10.200.200.3
 ||api.music.mixplugin.com^$dnsrewrite=NOERROR;AAAA;
-||api.my-ip.io^$dnsrewrite=NOERROR;A;10.200.200.3
-||api.my-ip.io^$dnsrewrite=NOERROR;AAAA;
 ||api.mybrowserbar.com^$dnsrewrite=NOERROR;A;10.200.200.3
 ||api.mybrowserbar.com^$dnsrewrite=NOERROR;AAAA;
 ||api.mycellspy.com^$dnsrewrite=NOERROR;A;10.200.200.3
@@ -674689,8 +674573,6 @@
 ||api33cmyc.cfd^$dnsrewrite=NOERROR;AAAA;
 ||api33cviv.sbs^$dnsrewrite=NOERROR;A;10.200.200.3
 ||api33cviv.sbs^$dnsrewrite=NOERROR;AAAA;
-||api4.my-ip.io^$dnsrewrite=NOERROR;A;10.200.200.3
-||api4.my-ip.io^$dnsrewrite=NOERROR;AAAA;
 ||api4.raznospower.ru^$dnsrewrite=NOERROR;A;10.200.200.3
 ||api4.raznospower.ru^$dnsrewrite=NOERROR;AAAA;
 ||api4.wipmania.com^$dnsrewrite=NOERROR;A;10.200.200.3
